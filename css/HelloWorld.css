@@ -1,0 +1,12 @@
+h1{
+    font-family: 'Lobster', cursive;
+}
+
+html {
+    background-image: url('../pictures/HelloWorld.png') ;
+    background-repeat: no-repeat;
+     background-attachment: fixed;
+    background-position: center; 
+     
+    
+}

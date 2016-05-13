@@ -1,0 +1,32 @@
+ 
+  
+  .bg-1 { 
+        background-color: #fff; 
+     background-repeat: no-repeat;
+     background-size:cover;
+     height: 225px;
+   
+  }
+  .bg-2 { 
+      background-color: #fff; /* Dark Blue */
+      color: #555;
+      height: 200px;
+  }
+  .bg-3 { 
+           
+      background-image: url('../pictures/AboutMe2.jpg');
+     background-repeat: no-repeat;
+     background-size:cover;
+     height: 225px;
+     color: #555;
+  }   
+
+h1 {
+    font-family: 'Lobster', cursive;
+    font-size: 120px;
+}
+
+h3 {
+ font-family: 'Lobster', cursive;
+ font-weight: bold;   
+}
