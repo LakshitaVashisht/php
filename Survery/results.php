@@ -64,20 +64,8 @@ saveData();
 				</button>
 				<a class="navbar-brand" href="#">Results</a>
 			</div>
-			<div class="navbar-collapse collapse" id="navbar-main">
 
-				<ul class="nav navbar-nav navbar-left">
-					<li><a href="http://westonkd.github.io" target="_blank">Portfolio</a>
-					</li>
-				</ul>
-				<ul class="nav navbar-nav navbar-left">
-					<li><a href="mailto:dra10005@byui.edu" target="_blank">Contact</a>
-					</li>
-				</ul>
-				<ul class="nav navbar-nav navbar-left">
-					<li><a href="assignments.html">Assignements</a>
-					</li>
-				</ul>
+				
 			</div>
 		</div>
 	</div>
